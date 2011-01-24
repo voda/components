@@ -13,9 +13,9 @@
  * @package    Nette Extras
  */
 
-/*use Nette\Application\Control;*/
+use Nette\Application\Control;
 
-/*use Nette\Paginator;*/
+use Nette\Paginator;
 
 
 
